@@ -1,2 +1,2 @@
-# test_1. Edición del origianl
+# test_1. Edición del original
 Comenzando
